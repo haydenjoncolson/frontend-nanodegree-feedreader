@@ -2,7 +2,11 @@
 
 The 8th project of the frontend-nanodegree program.
 
+# How to open
 
+Download or clone https://github.com/haydenjoncolson/frontend-nanodegree-feedreader
+
+Open index.html
 
 
 
